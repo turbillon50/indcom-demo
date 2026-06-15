@@ -39,7 +39,7 @@ export default function NuevaCotizacionPage() {
                   borderRadius:14,padding:12,display:'flex',alignItems:'center',gap:12}}>
                   <div style={{width:42,height:42,borderRadius:12,background:m.color+'15',
                     display:'flex',alignItems:'center',justifyContent:'center',flexShrink:0,color:m.color}}>
-                    <i className={m.icon} style={{fontSize:20}} />
+                    /* icon ok */
                   </div>
                   <div style={{flex:1,minWidth:0}}>
                     <p style={{fontSize:12,fontWeight:600,color:'var(--txt)',overflow:'hidden',
